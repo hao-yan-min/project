@@ -10,7 +10,8 @@
     "core-js": "^3.8.3",
     "element-ui": "^2.15.12",
     "hydrogen-js-sdk": "^2.3.10",
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",

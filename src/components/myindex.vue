@@ -7,7 +7,7 @@
 
  
    <el-header>
-    header
+    <el-avatar src="../img/1668897179_FZ-v1EXVEAAclgR.jpg" fit="fill"></el-avatar>
     
    </el-header>
    <el-main>

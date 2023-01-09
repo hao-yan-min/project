@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import Test from './Test.vue'
-import me from '@/myindex.vue'
+import router from './router'
 
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
@@ -12,4 +11,5 @@ Bmob.initialize('6f6f8c9c5729628b', '123456');
 Vue.prototype.Bmob = Bmob;
 new Vue({
     render: h => h(App),
+    router
 }).$mount('#app')
